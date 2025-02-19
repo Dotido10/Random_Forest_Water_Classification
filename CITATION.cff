@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sauveur"
+  given-names: "Renaldo"
+  orcid: "https://orcid.org/0009-0004-4583-1403"
+title: "Random Forest Water Classification"
+version: 0.1.1
+doi: 10.5281/zenodo.14894605
+date-released: 2017-09-01
+url: "https://doi.org/10.5281/zenodo.14894604"
