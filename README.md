@@ -10,4 +10,5 @@ Second, we will perform inference using the Random Forest algorithm, and will in
 For this exercise we have downloaded our features data from the copernicus platform by using the Google Earth Engine .
 
 We digitized manually our labeled data from the sentinel-2 image by using the QGIS software. Water extend frorm Lakes Azeui and Enriquillo in the island of Haiti were used.
+
 [![DOI](https://zenodo.org/badge/839388281.svg)](https://doi.org/10.5281/zenodo.14894604)
